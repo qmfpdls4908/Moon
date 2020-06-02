@@ -14,4 +14,4 @@ comment: true
 - - -
 인터넷은 분산 네트워크와 패킷데이터 전송 방식을 사용한다.
 대략 아래와 같은 그림
-<img src="qmfpdls4908.github.io\_posts\2020-06-02-TCPIP_Study\분산 네트워크.png"></img>
+<img src="qmfpdls4908.github.io\\2020-06-02-TCPIP_Study\분산 네트워크.png"></img>
